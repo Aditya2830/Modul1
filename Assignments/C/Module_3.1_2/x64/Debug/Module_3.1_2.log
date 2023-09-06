@@ -1,0 +1,5 @@
+﻿  Module_3.1_2.c
+D:\1\Assignments\Module_3.1_2\Module_3.1_2.c(13,9): warning C4476: 'printf' : unknown type field character '%' in format specifier
+D:\1\Assignments\Module_3.1_2\Module_3.1_2.c(13,40): warning C4474: 'printf' : too many arguments passed for format string
+D:\1\Assignments\Module_3.1_2\Module_3.1_2.c(13,40): message : placeholders and their parameters expect 2 variadic arguments, but 3 were provided
+  Module_3.1_2.vcxproj -> D:\1\Assignments\x64\Debug\Module_3.1_2.exe

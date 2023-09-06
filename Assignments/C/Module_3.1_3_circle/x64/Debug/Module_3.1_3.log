@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Module_3.1_3.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Module_3.1_3_Circle.c
+D:\1\Assignments\Module_3.1_3\Module_3.1_3_Circle.c(4,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Module_3.1_3.vcxproj -> D:\1\Assignments\x64\Debug\Module_3.1_3_circle.exe
